@@ -1,0 +1,4 @@
+./mp3/*
+./text/*
+.DS_Store
+.env

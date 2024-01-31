@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  python-cli:
+    build:
+      context: .
+    restart: always
+    volumes:
+      - .:/code
+    working_dir: /code
+    stdin_open: true
+    tty: true
+
