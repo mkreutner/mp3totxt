@@ -1,4 +1,4 @@
-./mp3/*
-./text/*
+mp3/*
+text/*
 .DS_Store
-.env
+.envcom
